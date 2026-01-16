@@ -1,2 +1,6 @@
 hello today git file1
+<<<<<<< HEAD
   edited by main branch
+=======
+  hello i am stg
+>>>>>>> stg
